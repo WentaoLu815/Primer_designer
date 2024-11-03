@@ -7,3 +7,6 @@ third step:after align this gene you can get an output file, input this file to 
 forth step:export identity message into a csv file
 fifrh step:use my program to calculate primer scores to get the most suitable primer position and i can output amplicon score if you need a position absolutely conversed
 sixth step：you can input your file to csv_start_end.py to get conversed primer position(optional)
+
+
+The new file is used to calculate the interactions between primer bases. A new column named "nt" needs to be added to the input Identity file to store the base corresponding to each position. For details on using delimiters in Excel, please refer.  
